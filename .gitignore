@@ -1,0 +1,3 @@
+*.safetensors
+.ipynb_checkpoints/
+.~lock.*
