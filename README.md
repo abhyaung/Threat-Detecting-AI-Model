@@ -1,6 +1,6 @@
 # 🛡️ Threat-Detecting AI Moderation Engine
 
-🟢 **Live Web App:** [Play with the live BERT model here!](https://huggingface.co/spaces/abhyaung/YOUR_SPACE_NAME)
+🟢 **Live Web App:** [Play with the live BERT model here!](https://huggingface.co/spaces/CPU2516/threat-detecting-ai)
 
 *(Note: Replace "YOUR_SPACE_NAME" with your actual Hugging Face URL before saving!)*
 
