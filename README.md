@@ -2,7 +2,6 @@
 
 🟢 **Live Web App:** [Play with the live BERT model here!](https://huggingface.co/spaces/CPU2516/threat-detecting-ai)
 
-*(Note: Replace "YOUR_SPACE_NAME" with your actual Hugging Face URL before saving!)*
 
 ## 🧠 Model Architecture & Performance
 * **Base Model:** BERT (Bidirectional Encoder Representations from Transformers)
